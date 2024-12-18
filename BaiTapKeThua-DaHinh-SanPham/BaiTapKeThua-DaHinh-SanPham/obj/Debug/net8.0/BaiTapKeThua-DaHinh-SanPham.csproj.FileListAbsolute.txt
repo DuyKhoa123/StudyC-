@@ -1,0 +1,17 @@
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.csproj.AssemblyReference.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.AssemblyInfoInputs.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.AssemblyInfo.cs
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.csproj.CoreCompileInputs.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.exe
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.deps.json
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.runtimeconfig.json
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.pdb
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKe.74E13934.Up2Date
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\refint\BaiTapKeThua-DaHinh-SanPham.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.pdb
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\BaiTapKeThua-DaHinh-SanPham.genruntimeconfig.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh-SanPham\BaiTapKeThua-DaHinh-SanPham\obj\Debug\net8.0\ref\BaiTapKeThua-DaHinh-SanPham.dll

@@ -1,0 +1,17 @@
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.csproj.AssemblyReference.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.AssemblyInfoInputs.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.AssemblyInfo.cs
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.csproj.CoreCompileInputs.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\BaiTapKeThua-DaHinh.exe
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\BaiTapKeThua-DaHinh.deps.json
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\BaiTapKeThua-DaHinh.runtimeconfig.json
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\BaiTapKeThua-DaHinh.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\BaiTapKeThua-DaHinh.pdb
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKe.61D6D087.Up2Date
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\refint\BaiTapKeThua-DaHinh.dll
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.pdb
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\BaiTapKeThua-DaHinh.genruntimeconfig.cache
+D:\Cyber\StudyC-\BaiTapKeThua-DaHinh\BaiTapKeThua-DaHinh\obj\Debug\net8.0\ref\BaiTapKeThua-DaHinh.dll
